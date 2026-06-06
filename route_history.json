@@ -1,0 +1,23 @@
+[
+    {
+        "source": "India Gate New Delhi",
+        "destination": "IGI Airport New Delhi",
+        "algorithm": "A*",
+        "distance_km": 19.34,
+        "eta_min": 255.51
+    },
+    {
+        "source": "India Gate New Delhi",
+        "destination": "IGI Airport New Delhi",
+        "algorithm": "A*",
+        "distance_km": 19.75,
+        "eta_min": 260.52
+    },
+    {
+        "source": "India Gate New Delhi",
+        "destination": "IGI Airport New Delhi",
+        "algorithm": "A*",
+        "distance_km": 19.75,
+        "eta_min": 260.52
+    }
+]

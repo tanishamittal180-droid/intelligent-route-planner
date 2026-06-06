@@ -1,0 +1,11 @@
+streamlit
+osmnx
+networkx
+geopandas
+shapely
+geopy
+joblib
+folium
+streamlit-folium
+pandas
+numpy
